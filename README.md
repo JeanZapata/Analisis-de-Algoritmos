@@ -89,6 +89,7 @@ El diseño de un algoritmo no es un proceso lineal; es un ciclo continuo que inv
 * Optimizarla si es necesario.
 
 
+Taller: Codificación de algoritmo
 ```java
 public class MergeSort {
 
@@ -143,6 +144,14 @@ public class MergeSort {
     }
 }
 ```
+
+Prueba de escritorio 
+
+![Imagen de WhatsApp 2025-05-29 a las 23 11 55_97bc1416](https://github.com/user-attachments/assets/5beb4788-31c1-49b3-8cc9-e4e5d839e8a8)
+
+![Imagen de WhatsApp 2025-05-29 a las 23 12 01_ee0a97bf](https://github.com/user-attachments/assets/a96b50df-4b11-4446-9c1c-0cd46e965319)
+
+
 
 # Semana 4: Análisis de Algoritmos
 **Referencia:** Brassard & Bratley
@@ -393,6 +402,11 @@ El análisis de algoritmos permite comparar distintas soluciones para un mismo p
 * Reduce significativamente el tiempo para problemas grandes.
 * Los algoritmos recursivos consumen más memoria (uso de pila).
 * A veces se puede transformar la recursividad en iteración para ahorrar espacio.
+
+
+Taller fibonacci 
+
+![Imagen de WhatsApp 2025-05-29 a las 23 09 44_0042475c](https://github.com/user-attachments/assets/4bcf8bd9-2e31-40e8-85c4-dcb0ad3a64f8)
 
 ---
 
