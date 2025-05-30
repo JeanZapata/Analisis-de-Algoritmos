@@ -31,6 +31,12 @@ Referencia: Brassard & Bratley
 | Introducción al análisis| Asintótica desde el inicio         | Análisis gradual e intuitivo     |
 | Público ideal          | Lectores con bases teóricas       | Estudiantes principiantes        |
 
+Taller 
+
+![Imagen de WhatsApp 2025-05-29 a las 23 14 34_6d6f4791](https://github.com/user-attachments/assets/be2063e3-2bc1-43e3-ae00-cb34e796ce9a)
+
+
+
 # Semana 2: Fundamentos de Algoritmia
 Referencia: Brassard & Bratley
 
@@ -344,6 +350,11 @@ El análisis de algoritmos permite comparar distintas soluciones para un mismo p
 
 ---
 
+Taller 
+
+![Imagen de WhatsApp 2025-05-27 a las 13 29 54_a6bea259](https://github.com/user-attachments/assets/f18b62b5-ee36-4cfb-bae6-a6af16af6f62)
+
+
 ## Semana 7: Divide y Vencerás
 **Referencia:** Brassard & Bratley
 
@@ -410,6 +421,11 @@ Taller fibonacci
 
 ---
 
+Taller: Análisis de algoritmos - Regla del límite
+
+![Imagen de WhatsApp 2025-05-29 a las 23 28 54_b5e220bf](https://github.com/user-attachments/assets/f35ad4f7-4a21-4488-bc36-068dd7e2a753)
+
+![Imagen de WhatsApp 2025-05-29 a las 23 29 01_7a867a6e](https://github.com/user-attachments/assets/bdf8cb21-4a71-4172-ad0d-050dfd1b6727)
 
 
 
