@@ -84,3 +84,7 @@ Procedimiento Dijkstra(G, s):
 
     retornar dist, prev
 ```
+
+![Imagen de WhatsApp 2025-07-22 a las 09 53 49_a0c70046](https://github.com/user-attachments/assets/ef6f26f1-02d1-477a-b008-fcbd1d3d9b77)
+
+![Imagen de WhatsApp 2025-07-22 a las 09 54 07_844adfe8](https://github.com/user-attachments/assets/3ea76369-efa2-4d96-b513-caeb62a649cd)
