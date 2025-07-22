@@ -76,3 +76,9 @@ Donde:
     -a ≥ 1, número de subproblemas.
     -b > 1, factor de reducción de tamaño.
     -f(n), costo para dividir y combinar.
+```
+
+![Imagen de WhatsApp 2025-07-22 a las 09 54 50_956088c4](https://github.com/user-attachments/assets/9cbece75-54e4-4053-ac04-6daec8b2f7b8)
+
+![Imagen de WhatsApp 2025-07-22 a las 09 55 01_a48a61e3](https://github.com/user-attachments/assets/144a7b34-3c69-4eda-905e-5df08033e145)
+
