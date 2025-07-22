@@ -54,3 +54,8 @@ procedure Merge(A, inicio, medio, fin):
     copiar elementos restantes de L (si hay)
     copiar elementos restantes de R (si hay)
 ```
+![Imagen de WhatsApp 2025-07-22 a las 09 55 20_60dcac4e](https://github.com/user-attachments/assets/8d43ebac-f713-4cc5-9100-0399ceeb215b)
+
+![Imagen de WhatsApp 2025-07-22 a las 09 55 35_68b9acda](https://github.com/user-attachments/assets/4b51bf2c-39c5-457c-9bf3-00e35afe272f)
+
+![Imagen de WhatsApp 2025-07-22 a las 09 55 48_a8503c86](https://github.com/user-attachments/assets/2546704a-5951-43d1-b85d-db7d819dfadc)
