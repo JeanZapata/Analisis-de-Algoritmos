@@ -62,7 +62,24 @@ Miller-Rabin (Monte Carlo)
     No siempre es fácil estimar el número de repeticiones necesarias para obtener una probabilidad aceptable.
 
  Aplicaciones comunes
+ 
     Criptografía (generación de claves, primalidad)
     Aprendizaje automático (inicialización, muestreo)
     Simulación de sistemas complejos (Monte Carlo)
     Verificación de propiedades algebraicas y numéricas
+``
+    ![Imagen de WhatsApp 2025-07-22 a las 09 56 13_00a10208](https://github.com/user-attachments/assets/0e793313-bdcc-4bf5-9432-247ee41d9283)
+    
+``
+    ![Imagen de WhatsApp 2025-07-22 a las 09 56 29_7b0e4e3e](https://github.com/user-attachments/assets/79bfb7b2-ebb8-4e4d-8c0c-5f3990a6e5e6)
+
+
+![Imagen de WhatsApp 2025-07-22 a las 09 56 44_0edaa3e3](https://github.com/user-attachments/assets/030c3aa8-3928-4c77-bf65-613cf5fbb537)
+
+![Imagen de WhatsApp 2025-07-22 a las 09 56 57_27dd5f40](https://github.com/user-attachments/assets/45b632cb-6d67-4e9c-9e56-288cc9dde9ad)
+
+![Imagen de WhatsApp 2025-07-22 a las 09 57 08_27ce589d](https://github.com/user-attachments/assets/e4590e6b-ff08-4cf1-86e7-809958996f5b)
+
+![Imagen de WhatsApp 2025-07-22 a las 09 57 16_7ae03f75](https://github.com/user-attachments/assets/432f1faa-4301-41f0-b141-454fa9087222)
+
+![Imagen de WhatsApp 2025-07-22 a las 09 57 28_161f58c7](https://github.com/user-attachments/assets/26d1e136-e6ac-4391-bd13-a83d6f89a831)
